@@ -260,16 +260,3 @@ The saved TensorFlow model can be integrated into:
 * cloud-based systems
 
 ---
-
-# 📌 Summary
-
-Through this activity, we learned how to:
-
-* Prepare and organize image datasets
-* Train a CNN model for image classification
-* Evaluate model performance
-* Detect and reduce overfitting
-* Improve model accuracy using data augmentation and dropout
-* Deploy trained models for real-world applications
-
-This project demonstrates the **practical workflow of building an AI-powered image classification system** using TensorFlow.
