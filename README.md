@@ -3,7 +3,7 @@
 <h1>THIS IS THE LINK FOR MY GOOGLE COLLAB</h1>
 https://colab.research.google.com/drive/1o0AilPAWzaSBxLBi-m0NcEtiJUTZFgtM?usp=sharing
 <br><br>
-<h3>CNN Model</h3>
+<h3>Improved CNN Model</h3>
 https://drive.google.com/file/d/1js5waZMC4uIsx6yqRH4eVHabRP0ADbAk/view?usp=drive_link
 
 
