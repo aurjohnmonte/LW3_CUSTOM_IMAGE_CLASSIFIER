@@ -3,8 +3,8 @@
 <h1>THIS IS THE LINK FOR MY GOOGLE COLLAB</h1>
 https://colab.research.google.com/drive/1o0AilPAWzaSBxLBi-m0NcEtiJUTZFgtM?usp=sharing
 
-<p>CNN Model</p>
-[/content/drive/MyDrive/my_image_classifier.keras](https://drive.google.com/file/d/1js5waZMC4uIsx6yqRH4eVHabRP0ADbAk/view?usp=drive_link)
+## Custom Image Classification using TensorFlow
+https://drive.google.com/file/d/1js5waZMC4uIsx6yqRH4eVHabRP0ADbAk/view?usp=drive_link
 
 
 # 📘 Guide Questions – Answers
